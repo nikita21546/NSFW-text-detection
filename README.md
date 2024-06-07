@@ -49,4 +49,4 @@ The project highlighted the challenges of NSFW detection, particularly the bias 
 3. Classification of Reddit Posts: Predicting “Not Safe For Work” Content - University of British Columbia
 4. Jigsaw Unintended Bias in Toxicity Classification - Kaggle
 
-For more detailed information regarding this project, please refer to the [Report](sandbox:/mnt/data/Report.pdf).
+For more detailed information regarding this project, please refer to the [Report](Report.pdf).
